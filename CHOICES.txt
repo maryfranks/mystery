@@ -5,3 +5,5 @@ Second Choice: ____1
 Third Choice: ____2, 3, 1
 Fourth Choice: ____1, 1, 1
 Fifth Choice: ____1, --, 1
+
+SOLVED THE MURDER!
